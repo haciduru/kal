@@ -1,1 +1,0 @@
-This is a very simple program that encyripts and decyripts text data. It does not require an encyription key; it creates its own key and adds to the beginning of the data.
